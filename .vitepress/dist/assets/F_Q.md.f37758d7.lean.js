@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,O as r}from"./chunks/framework.4afe7240.js";const _=JSON.parse('{"title":"常见问题及解答","description":"","frontmatter":{},"headers":[],"relativePath":"F&Q.md","filePath":"F&Q.md"}'),o={name:"F&Q.md"},i=r("",22),h=[i];function l(n,d,c,s,p,u){return e(),t("div",null,h)}const b=a(o,[["render",l]]);export{_ as __pageData,b as default};

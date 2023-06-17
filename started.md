@@ -20,7 +20,7 @@
 
 1. 打开 [Minecraft](https://www.minecraft.net/zh-hans) 官方网站并登录您的 `Microsoft` 账户。
 
-2. 打开 [下载]([https://www.minecraft.net/zh-hans/download) 页面，选择适用于您的操作系统的版本。
+2. 打开 [下载](https://www.minecraft.net/zh-hans/download) 页面，选择适用于您的操作系统的版本。
 
 3. 下载游戏版本 (`1.9.X` - `1.19.X`) ，推荐使用 `1.18.2` 版本。
 

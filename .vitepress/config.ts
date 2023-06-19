@@ -45,7 +45,7 @@ export default defineConfig({
 
     footer: {
       message: '本服务器由 <a href="https://xyun.cloud">XyunCloud</a> 强力驱动',
-      copyright: 'Copyright © 2020-2023 <a href="https://xcraft.nkxingxh.top">XCraft</a>. All Rights Reserved.'
+      copyright: 'Copyright © 2020-2023 <a href="https://xcraft.liutailin.cn">XCraft</a>. All Rights Reserved.'
     },
 
     editLink: {

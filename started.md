@@ -9,16 +9,43 @@
 如何选择游玩版本呢？
 
 ::: tip
-如果您是电脑设备，那么请选择 Java 版。
+如果您使用电脑，请选择 [Java 版](#java-版)。
+如果您使用移动设备，请选择[基岩版 (即 Bedrock)](#基岩版-bedrock)。
+:::
 
-如果您是移动设备，那么请选择 Bedrock 版。
+::: tip
+我们建议所有有能力的玩家[支持正版](https://www.minecraft.net/)。
 :::
 
 ## Java 版
 
-### 正版用户
+::: tip
+我们推荐 Java 版玩家使用我们的专用客户端进入游戏以取得最好的游戏体验。
+:::
 
-1. 打开 [Minecraft](https://www.minecraft.net/zh-hans) 官方网站并登录您的 `Microsoft` 账户。
+### 专用客户端
+
+客户端下载: [XCraft 1.20.1 Forge Full Installer.exe](https://alist.nkxingxh.top/d/139/XCraft/XCraft%201.20.1%20Forge%20Full%20Installer.exe?sign=YLOGl2uZfAYYhuJQacfFvi2_pQxMNgDsAddxhdTOajY=:0)
+
+**为了您的账户与数据安全，我们不推荐您使用其它的客户端。**
+
+1. 使用上面的链接下载客户端安装包并安装。
+
+1. 在 [XCraft 交流群](https://qm.qq.com/cgi-bin/qm/qr?k=KTRRJbQ9gEPdsmy7BavNAuBQ4V1250ow&jump_from=webapi&authKey=9XVFnJl4E8mI4aEJBApqMn3O4rkt7ypOxMxeSI9GYJNCyepCx5BXrYnN3kX574iZ) 的 `群文件` 打开 `Java 安装包` 文件夹并下载 `安装包` ，根据提示进行安装。
+
+1. 注册 [统一通行证](https://login2.nide8.com:233/a8442f0808ff11e99250525400b59b6a/register) ，请记住您的 `统一通行证` 的用户名及密码。
+
+1. 打开解压的文件夹，运行启动器 (`PCL.exe`)，并登录您的 `统一通行证` 。
+
+1. 点击 `启动游戏` — `多人游戏` — `XCraft` ，即可愉快游玩。
+
+::: tip
+如果你是正版玩家，你也可以使用 HMCL 启动器启动游戏。
+:::
+
+### 官方启动器 (仅支持正版玩家)
+
+1. 打开 [Minecraft 官方网站](https://www.minecraft.net/zh-hans) 并登录您的 `Microsoft` 账户。
 
 2. 打开 [下载](https://www.minecraft.net/zh-hans/download) 页面，选择适用于您的操作系统的版本。
 
@@ -30,31 +57,7 @@
 
 6. 点击 `完成` — `XCraft` — `加入服务器` ，即可愉快游玩。
 
-### 非正版用户
-
-::: warning
-如果您还没有正版账户，可使用 `第三方客户端` 。
-
-您可以在 [XCraft 交流群](https://qm.qq.com/cgi-bin/qm/qr?k=KTRRJbQ9gEPdsmy7BavNAuBQ4V1250ow&jump_from=webapi&authKey=9XVFnJl4E8mI4aEJBApqMn3O4rkt7ypOxMxeSI9GYJNCyepCx5BXrYnN3kX574iZ) 的 `群文件` 中下载，我们提供的 `第三方客户端` 。
-
-**为了您的安全，我们不推荐您使用其他的 `第三方客户端` 。**
-
-*目前仅提供 `Windows` 系统下的 `第三方客户端` 。*
-:::
-
-1. 在 [XCraft 交流群](https://qm.qq.com/cgi-bin/qm/qr?k=KTRRJbQ9gEPdsmy7BavNAuBQ4V1250ow&jump_from=webapi&authKey=9XVFnJl4E8mI4aEJBApqMn3O4rkt7ypOxMxeSI9GYJNCyepCx5BXrYnN3kX574iZ) 的 `群文件` 打开 `Java 版客户端` 文件夹并下载 `压缩包` ，推荐使用 `1.18.2` 版本。
-
-2. 使用 `解压缩工具`（推荐 [7-Zip](https://www.7-zip.org/) ）解压，请确保 `压缩包` 内 **所有文件** 全部导出！
-
-3. 在 [XCraft 交流群](https://qm.qq.com/cgi-bin/qm/qr?k=KTRRJbQ9gEPdsmy7BavNAuBQ4V1250ow&jump_from=webapi&authKey=9XVFnJl4E8mI4aEJBApqMn3O4rkt7ypOxMxeSI9GYJNCyepCx5BXrYnN3kX574iZ) 的 `群文件` 打开 `Java 安装包` 文件夹并下载 `安装包` ，根据提示进行安装。
-
-4. 注册 [统一通行证](https://login2.nide8.com:233/a8442f0808ff11e99250525400b59b6a/register) ，请记住您的 `统一通行证` 的用户名及密码。
-
-5. 打开解压的文件夹，打开 `启动器.exe` 文件，并登录您的 `统一通行证` 。
-
-6. 点击 `启动游戏` — `多人游戏` — `XCraft` ，即可愉快游玩。
-
-## Bedrock 版（基岩版）
+## 基岩版 (Bedrock)
 
 ### 正版用户
 

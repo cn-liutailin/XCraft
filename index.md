@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "XCraft"
-  text: "Hello,XCraft!"
+  text: "Hello, XCraft!"
   tagline: 始建于 2020，提供纯净的 MC 体验
   image:
     src: /logo.svg
